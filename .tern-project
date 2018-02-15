@@ -1,0 +1,94 @@
+{
+  "ecmaVersion": 6,
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "highlight": {
+      
+    },
+    "push": {
+      
+    },
+    "webpack": {
+      
+    },
+    "node": {
+      
+    },
+    "jasmine": {
+      
+    },
+    "requirejs": {
+      
+    },
+    "angular1": {
+      
+    },
+    "yui3": {
+      
+    },
+    "dojotoolkit1.6": {
+      
+    },
+    "node-express": {
+      
+    },
+    "browser-extension": {
+      
+    },
+    "gulp": {
+      
+    },
+    "grunt": {
+      
+    },
+    "node-mongoose": {
+      
+    },
+    "node-extension": {
+      
+    },
+    "node-mongodb-native": {
+      
+    },
+    "phaser": {
+      
+    },
+    "threejs": {
+      
+    },
+    "protractor": {
+      
+    },
+    "requirejs-extension": {
+      
+    },
+    "aui2.0.x": {
+      
+    },
+    "bootstrap": {
+      
+    },
+    "jquery-ui1-12": {
+      
+    },
+    "jquery-extension": {
+      
+    },
+    "jquery-mobile1.5": {
+      
+    }
+  },
+  "libs": [
+    "ecma5",
+    ".angular-cli",
+    "package",
+    "package-lock",
+    "browser",
+    "underscore",
+    "fetch",
+    "jquery",
+    "chai"
+  ]
+}
